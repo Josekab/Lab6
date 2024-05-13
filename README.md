@@ -1,1 +1,2 @@
-"# Lab-6" 
+Jose Carlos Barrantes
+Kevin Porras 
